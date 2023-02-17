@@ -3,6 +3,7 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=u6280154_automated-clean-code&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=u6280154_automated-clean-code)
 
 ## Setup Instruction
+Dead
 ```
 poetry install
 ```
